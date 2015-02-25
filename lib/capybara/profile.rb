@@ -1,4 +1,5 @@
 require "capybara/profile/version"
+require 'stackprof'
 
 module Capybara
   module Profile
